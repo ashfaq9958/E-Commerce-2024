@@ -26,7 +26,11 @@ const Header = () => {
       >
         <div className="container gx-0 ">
           <NavLink to="/">
-            <img src={logo} alt="" style={{ height: "70px" }} />
+            <img
+              src={logo}
+              alt=""
+              style={{ height: "70px", backgroundColor: "#f5f5f5" }}
+            />
           </NavLink>
           <button
             className="navbar-toggler"
