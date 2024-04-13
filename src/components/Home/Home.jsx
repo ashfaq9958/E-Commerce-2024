@@ -1,9 +1,10 @@
 import React from "react";
+import Banner from "./Banner.jsx";
 
 const Home = () => {
   return (
     <div>
-        iam Home font-family: "Poppins", sans-serif; font-family: "Poppins",
+      <Banner />
     </div>
   );
 };
