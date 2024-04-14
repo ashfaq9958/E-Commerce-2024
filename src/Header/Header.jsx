@@ -10,7 +10,7 @@ const Header = () => {
     if (offset > 200) {
       setScollNavbar(true);
     } else {
-      setScollNavbar(false``);
+      setScollNavbar(false);
     }
   };
 
