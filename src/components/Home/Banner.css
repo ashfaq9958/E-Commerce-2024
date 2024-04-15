@@ -31,3 +31,23 @@
   transform: scale(1.05);
   box-shadow: 1px 6px 10px -1px rgb(116, 116, 116);
 }
+
+.imgpar1 {
+  /* border: 2px solid green; */
+  height: 450px;
+}
+
+.imgpar1 img {
+  height: 100%;
+margin-left: -80px;
+}
+
+.imgpar2  {
+  /* border: 2px solid green; */
+  height: 450px;
+}
+
+.imgpar2 img{
+  height: 100%;
+  margin-left: -80px;
+}
