@@ -24,7 +24,7 @@ const Header = () => {
           scrollNavbar ? "sticky_nav1" : ""
         }`}
       >
-        <div className="container gx-0 ">
+        <div className="container gx-0">
           <NavLink to="/">
             <img
               src={logo}

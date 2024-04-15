@@ -15,7 +15,18 @@
   font-size: 3rem;
   font-weight: 700;
 }
-
+.main_label i {
+  padding: 0.3rem;
+  border-radius: 100%;
+  background: #ff3971;
+  color: #fff;
+  font-size: 0.8rem;
+  margin-right: 0.3rem;
+}
+.main_label{
+  color: #ff3971;
+  font-weight: 600;
+}
 .main_btn {
   padding: 0.7rem 1.7rem;
   border: 0;
@@ -39,15 +50,15 @@
 
 .imgpar1 img {
   height: 100%;
-margin-left: -80px;
+  margin-left: -80px;
 }
 
-.imgpar2  {
+.imgpar2 {
   /* border: 2px solid green; */
   height: 450px;
 }
 
-.imgpar2 img{
+.imgpar2 img {
   height: 100%;
   margin-left: -80px;
 }
