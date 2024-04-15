@@ -1,6 +1,8 @@
 import React from "react";
 import "./Category.css";
-import img from "../../../assets/headphone-icon.png";
+import img from "../../../assets/head-icon.png";
+import img2 from "../../../assets/mobile.png"
+import img3 from "../../../assets/smart-watch.png"
 
 const Category = () => {
   return (
@@ -17,14 +19,14 @@ const Category = () => {
 
           <div className="col-md-2 col-6">
             <div className="home_category text-center">
-              <img src={img} alt="" />
+              <img src={img2} alt="" />
               <h5 className="category_title">Categorys</h5>
             </div>
           </div>
 
           <div className="col-md-2 col-6">
             <div className="home_category text-center">
-              <img src={img} alt="" />
+              <img src={img3} alt="" />
               <h5 className="category_title">Categorys</h5>
             </div>
           </div>
