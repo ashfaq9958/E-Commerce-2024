@@ -5,7 +5,7 @@ import headphone_3 from "../../../assets/headphone_3.png";
 import head_2 from "../../../assets/head_2.png";
 const Banner = () => {
   return (
-    <Carousel className="banner_main" autoPlay>
+    <Carousel className="banner_main" >
       <>
         <div className="container-fluid Banner_1">
           <div className="container gx-0 corparent1">
