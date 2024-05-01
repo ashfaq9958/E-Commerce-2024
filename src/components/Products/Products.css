@@ -10,3 +10,22 @@
   grid-template-columns: repeat(4, 1fr);
   gap: 1rem;
 }
+.product_price {
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+.icons i{
+  font-size: 1rem;
+  padding-right: 0.3rem;
+  color: #ffc12b;
+
+}
+.card_head{
+  background: var(--light-color);
+}
+
+.card_head img:hover{
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+  transform: scale(1.08);
+}

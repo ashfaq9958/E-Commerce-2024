@@ -11,8 +11,8 @@ const Product = () => {
               <img src={img} alt="" className="img-fluid" />
             </div>
             <div className="card-body">
-                <h5 className="Product_name">Mouse</h5>
-                <div className="icons">
+                <p className="Product_name">Mouse</p>
+                <div className="icons py-2">
                     <i className="fa-solid fa-star"></i>
                     <i className="fa-solid fa-star"></i>
                     <i className="fa-solid fa-star"></i>
